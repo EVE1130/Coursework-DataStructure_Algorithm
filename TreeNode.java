@@ -1,4 +1,4 @@
-package roup3;
+package Group3;
 
 public class TreeNode {
 	private double upperB, lowerB;
